@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://accesscontabilidade.com.br/sitemap.xml
